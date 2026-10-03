@@ -1,0 +1,3 @@
+* eb8c031 (HEAD -> feature/retiros) Muestra el número de retiros
+* 47ab1e7 (origin/main, main) MP-1: mi nombre en el estado de cuenta
+* a722fe5 MP-0: la cuenta bancaria

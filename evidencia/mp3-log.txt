@@ -1,0 +1,7 @@
+*   d6ced8b (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from etherealWolfgs/feature/retiros
+|\  
+| * 1d280b2 Dice cuántos retiros fueron gratis
+| * eb8c031 Muestra el número de retiros
+|/  
+* 47ab1e7 MP-1: mi nombre en el estado de cuenta
+* a722fe5 MP-0: la cuenta bancaria
